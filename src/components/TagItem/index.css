@@ -1,0 +1,24 @@
+.tag-item {
+  list-style-type: none;
+  margin-right: 10px;
+}
+
+.tag-button {
+  color: #f1f5f8;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 15px;
+  padding: 5px 10px;
+  outline: none;
+  cursor: pointer;
+}
+
+.active {
+  background-color: #f3aa4e;
+  border: none;
+}
+.normal {
+  background-color: transparent;
+  border: 1px solid #f3aa4e;
+}
